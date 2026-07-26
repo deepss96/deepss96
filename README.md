@@ -29,7 +29,7 @@
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2J1a3Q1cTB0MGg2d2p0Z3g2eTJpY3J3a3Rqd3VzdnE1a2l3a3ZrbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SWoSkN6DxTszqIKEqv/giphy.gif" width="450" alt="Animated Frontend Development visual">
 </p>
 
-[![divider_arc_reactor](https://raw.githubusercontent.com/deepss96/dream_house/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/deepss96)
+[![divider_arc_reactor](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/deepss96)
 
 <!-- Title -->
 <p align="center">
@@ -59,14 +59,14 @@
 </p>
 
 
-[![divider_moving_neon_gradient](https://raw.githubusercontent.com/deepss96/dream_house/master/assets/dividers/animated/unique_effects/divider_cyber_cycle_mirrored.svg)](https://github.com/deepss96)
+[![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle_mirrored.svg)](https://github.com/deepss96)
 
 <p align="center">
   <img src="./docs/img/Deepak_core.svg" width="100%" alt="System core panel" />
 </p>
 
 
-[![divider_moving_neon_gradient](https://raw.githubusercontent.com/deepss96/dream_house/master/assets/dividers/animated/unique_effects/divider_data_capsul.svg)](https://github.com/deepss96)
+[![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_data_capsul.svg)](https://github.com/deepss96)
 
 
 # 🛠 Technologies, Projects, and Domains
@@ -151,7 +151,7 @@
 </tr>
 </table>
 
-[![divider_moving_neon_gradient](https://raw.githubusercontent.com/deepss96/dream_house/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg)](https://github.com/deepss96)
+[![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg)](https://github.com/deepss96)
 
 ### 📊 Vital Statistics
 
@@ -172,7 +172,7 @@
   <img src="https://img.shields.io/badge/Code%20Time-3817%20hrs%2020%20mins-blue?style=flat" alt="Views" />
 </p>
 
-[![divider_twin_serpant](https://raw.githubusercontent.com/deepss96/dream_house/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/deepss96)
+[![divider_twin_serpant](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/deepss96)
 
 <table width="100%" border="0" cellspacing="10" cellpadding="0">
 <tr>
@@ -245,7 +245,7 @@ I’m open to collaborating on:
 </tr>
 </table>
 
-[![divider_twin_serpant](https://raw.githubusercontent.com/deepss96/dream_house/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/deepss96)
+[![divider_twin_serpant](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/deepss96)
 
 <p align="center">
 ⚡ Building scalable Web Apps and modern frontend architectures
@@ -264,7 +264,7 @@ Star ⭐ the repos if they helped you!
 
 <p align="center">
     <a href="docs/hidden/easter_egg.md">
-        <img src="https://raw.githubusercontent.com/deepss96/dream_house/master/assets/icons/devops/icon_heartbeat_node.svg" width="20px" alt="Hidden easter egg link">
+        <img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/icons/devops/icon_heartbeat_node.svg" width="20px" alt="Hidden easter egg link">
     </a>
 </p>
 
