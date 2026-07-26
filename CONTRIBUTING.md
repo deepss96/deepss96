@@ -14,7 +14,7 @@ Useful contributions include:
 - Reporting broken external assets or third-party README widgets.
 - Proposing small improvements to profile documentation.
 
-For collaboration on machine learning infrastructure, MLOps, research tooling, reinforcement learning, robotics, or distributed AI systems, please open an issue or contact me through the links in the README.
+For collaboration on Frontend Development infrastructure, Web Performance, research tooling, React & UI/UX, robotics, or distributed Web applications, please open an issue or contact me through the links in the README.
 
 ## Before Opening a Pull Request
 

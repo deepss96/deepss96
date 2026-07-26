@@ -67,15 +67,15 @@
     <g transform="translate(95 220)">
       <rect width="280" height="200" rx="22" fill="rgba(2, 6, 23, 0.82)" stroke="url(#routeEdge)" stroke-width="2"/>
       <text x="24" y="38" class="meta">AI INFRA / RESEARCH OPS</text>
-      <text x="24" y="82" class="routeTitle">PaperOps</text>
+      <text x="24" y="82" class="routeTitle">Team-Deco</text>
       <text x="24" y="120" class="routeText">Start here for research</text>
       <text x="24" y="143" class="routeText">automation, reproducibility,</text>
-      <text x="24" y="166" class="routeText">and ML infrastructure.</text>
+      <text x="24" y="166" class="routeText">and Frontend architecture.</text>
     </g>
     <g transform="translate(410 220)">
       <rect width="280" height="200" rx="22" fill="rgba(2, 6, 23, 0.82)" stroke="url(#routeEdge)" stroke-width="2"/>
-      <text x="24" y="38" class="meta">STRATEGIC AI SYSTEMS</text>
-      <text x="24" y="82" class="routeTitle">Future Iran AI</text>
+      <text x="24" y="38" class="meta">STRATEGIC Web applications</text>
+      <text x="24" y="82" class="routeTitle">E-Commerce App</text>
       <text x="24" y="120" class="routeText">Start here for geopolitical</text>
       <text x="24" y="143" class="routeText">AI, intelligence workflows,</text>
       <text x="24" y="166" class="routeText">and long-term research direction.</text>
@@ -83,7 +83,7 @@
     <g transform="translate(725 220)">
       <rect width="280" height="200" rx="22" fill="rgba(2, 6, 23, 0.82)" stroke="url(#routeEdge)" stroke-width="2"/>
       <text x="24" y="38" class="meta">AGENTS / REASONING</text>
-      <text x="24" y="82" class="routeTitle">MARL + Thirty-One</text>
+      <text x="24" y="82" class="routeTitle">Handshake-ai-task + Thirty-One</text>
       <text x="24" y="120" class="routeText">Start here for RL, agent</text>
       <text x="24" y="143" class="routeText">behavior, coordination,</text>
       <text x="24" y="166" class="routeText">and decision systems.</text>

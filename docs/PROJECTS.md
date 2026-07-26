@@ -10,7 +10,7 @@
     <img src="../docs/img/navbar/projects.svg" width="220px" alt="Projects navigation" />
   </a>
   <a href="./AI_DOMAIN.md">
-    <img src="../docs/img/navbar/ai_domain.svg" width="220px" alt="AI domains navigation" />
+    <img src="../docs/img/navbar/ai_domain.svg" width="220px" alt="Web Domains navigation" />
   </a>
 </p>
 
@@ -29,42 +29,42 @@
 ---
 
 <p align="center">
-  <b>Selected work across AI systems, research tooling, machine learning infrastructure, and interactive technical experiments.</b>
+  <b>Selected work across Web applications, research tooling, Frontend Development infrastructure, and interactive technical experiments.</b>
 </p>
 
 <p align="center">
-  This page highlights projects that match the main direction of my GitHub profile: building practical systems around ML infrastructure, automation, reinforcement learning, data workflows, and developer-facing AI tools.
+  This page highlights projects that match the main direction of my GitHub profile: building practical systems around Frontend architecture, automation, React & UI/UX, data workflows, and developer-facing AI tools.
 </p>
 
 <h2 align="center">🧪 Project Highlights</h2>
 
 <!-- Row 1 -->
 <p align="center">
-  <a href="https://github.com/deepss96/future-iran-ai-think-tank">
-    <img src="../docs/img/projects/future_iran_ai.svg" width="45%" alt="Future Iran AI project card" />
+  <a href="https://github.com/deepss96/E-Commerce-Web-App">
+    <img src="../docs/img/projects/future_iran_ai.svg" width="45%" alt="E-Commerce App project card" />
   </a>
-  <a href="https://github.com/PLAYERUNKNOWN-Productions/research-paperops">
-    <img src="../docs/img/projects/paper_ops.svg" width="45%" alt="PaperOps research automation project card" />
+  <a href="https://github.com/PLAYERUNKNOWN-Productions/research-Team-Deco">
+    <img src="../docs/img/projects/paper_ops.svg" width="45%" alt="Team-Deco research automation project card" />
   </a>
 </p>
 
 <!-- Row 2 -->
 <p align="center">
-  <a href="https://github.com/deepss96/ThirtyoneCard">
-    <img src="../docs/img/projects/thirty_one.svg" width="45%" alt="Thirty-One game project card" />
+  <a href="https://github.com/deepss96/skillUP">
+    <img src="../docs/img/projects/thirty_one.svg" width="45%" alt="SkillUP project card" />
   </a>
-  <a href="https://github.com/deepss96/MARL">
-    <img src="../docs/img/projects/marl.svg" width="45%" alt="Multi-agent reinforcement learning project card" />
+  <a href="https://github.com/deepss96/Handshake-ai-task">
+    <img src="../docs/img/projects/Handshake-ai-task.svg" width="45%" alt="Multi-agent React & UI/UX project card" />
   </a>
 </p>
 
 <!-- Row 3 -->
 <p align="center">
-  <a href="https://github.com/deepss96/readme-ux-kit">
+  <a href="https://github.com/deepss96/dream_house">
     <img src="../docs/img/projects/readme_ux_kit.svg" width="45%" alt="README UX Kit project card" />
   </a>
-  <a href="https://github.com/deepss96/SpaceInvadersModel">
-    <img src="../docs/img/projects/space_invader.svg" width="45%" alt="Space Invaders model project card" />
+  <a href="https://github.com/deepss96/school-bus-tracker">
+    <img src="../docs/img/projects/space_invader.svg" width="45%" alt="School Bus Tracker project card" />
   </a>
 </p>
 
@@ -72,12 +72,12 @@
 
 | Project | Focus | Status | Why it matters |
 | --- | --- | --- | --- |
-| [Future Iran AI](https://github.com/deepss96/future-iran-ai-think-tank) | AI, geopolitics, intelligence systems | Research direction | Explores how AI systems can support strategic analysis and national-scale reasoning. |
-| [PaperOps](https://github.com/PLAYERUNKNOWN-Productions/research-paperops) | Research automation, ML infrastructure | Collaboration / infrastructure | Turns research workflows into more reproducible, automated, and inspectable systems. |
-| [Thirty-One Game](https://github.com/deepss96/ThirtyoneCard) | Game logic, epistemic reasoning | Project | Uses a card-game setting to explore multi-agent reasoning and decision logic. |
-| [MARL](https://github.com/deepss96/MARL) | Multi-agent reinforcement learning | Experimentation | Focuses on coordination, learning dynamics, and agent behavior. |
-| [README UX Kit](https://github.com/deepss96/readme-ux-kit) | SVG systems, README design | Toolkit | Provides visual components for expressive GitHub profiles and documentation. |
-| [Space Invaders Model](https://github.com/deepss96/SpaceInvadersModel) | Behavioral modeling, clustering | ML project | Studies gameplay patterns through modeling and unsupervised learning ideas. |
+| [E-Commerce App](https://github.com/deepss96/E-Commerce-Web-App) | AI, geopolitics, intelligence systems | Research direction | Explores how Web applications can support strategic analysis and national-scale reasoning. |
+| [Team-Deco](https://github.com/PLAYERUNKNOWN-Productions/research-Team-Deco) | Research automation, Frontend architecture | Collaboration / infrastructure | Turns research workflows into more reproducible, automated, and inspectable systems. |
+| [SkillUP](https://github.com/deepss96/skillUP) | Game logic, epistemic reasoning | Project | Uses a card-game setting to explore multi-agent reasoning and decision logic. |
+| [Handshake-ai-task](https://github.com/deepss96/Handshake-ai-task) | Multi-agent React & UI/UX | Experimentation | Focuses on coordination, learning dynamics, and agent behavior. |
+| [README UX Kit](https://github.com/deepss96/dream_house) | SVG systems, README design | Toolkit | Provides visual components for expressive GitHub profiles and documentation. |
+| [School Bus Tracker](https://github.com/deepss96/school-bus-tracker) | Behavioral modeling, clustering | ML project | Studies gameplay patterns through modeling and unsupervised learning ideas. |
 
 ## Current Direction
 

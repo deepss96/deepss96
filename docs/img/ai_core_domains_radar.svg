@@ -99,7 +99,7 @@
     <animate attributeName="stroke-dashoffset" from="0" to="-670" dur="24s" repeatCount="indefinite"/>
   </rect>
 
-  <text x="750" y="72" text-anchor="middle" class="kicker">AI DOMAIN MAP</text>
+  <text x="750" y="72" text-anchor="middle" class="kicker">Web Domain MAP</text>
   <text x="750" y="128" text-anchor="middle" class="title">CORE TECHNICAL ORBITS</text>
   <text x="750" y="162" text-anchor="middle" class="subtitle">A systems map of the areas where my AI work, projects, and labs converge.</text>
 
@@ -136,7 +136,7 @@
     <g transform="translate(70 215)">
       <path d="M20 0H310L350 42V132L326 158H0V20Z" fill="rgba(2, 6, 23, 0.82)" stroke="url(#domainEdge)" stroke-width="2"/>
       <text x="26" y="36" class="domainMeta">ORBIT 01</text>
-      <text x="26" y="72" class="domainTitle">ML INFRASTRUCTURE</text>
+      <text x="26" y="72" class="domainTitle">Frontend architecture</text>
       <text x="26" y="104" class="domainText">Training pipelines, model serving,</text>
       <text x="26" y="127" class="domainText">reproducibility, experiment systems.</text>
     </g>
@@ -144,7 +144,7 @@
     <g transform="translate(1080 215)">
       <path d="M48 0H350V134L326 158H0V44Z" fill="rgba(2, 6, 23, 0.82)" stroke="url(#domainEdge)" stroke-width="2"/>
       <text x="32" y="36" class="domainMeta">ORBIT 02</text>
-      <text x="32" y="72" class="domainTitle">MLOPS</text>
+      <text x="32" y="72" class="domainTitle">Web Performance</text>
       <text x="32" y="104" class="domainText">Deployment workflows, monitoring,</text>
       <text x="32" y="127" class="domainText">versioning, evaluation, automation.</text>
     </g>
@@ -180,7 +180,7 @@
       <text x="30" y="36" class="domainMeta">ORBIT 06</text>
       <text x="30" y="72" class="domainTitle">INTERACTIVE LABS</text>
       <text x="30" y="104" class="domainText">Visual tools for AI and science:</text>
-      <text x="30" y="127" class="domainText">Neural, Molecule, and Model Forge.</text>
+      <text x="30" y="127" class="domainText">Neural, Molecule, and Component Forge.</text>
     </g>
   </g>
 

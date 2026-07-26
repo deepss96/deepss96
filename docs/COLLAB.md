@@ -12,7 +12,7 @@
     <img src="../docs/img/navbar/projects.svg" width="220px" alt="Projects navigation" />
   </a>
   <a href="./AI_DOMAIN.md">
-    <img src="../docs/img/navbar/ai_domain.svg" width="220px" alt="AI domains navigation" />
+    <img src="../docs/img/navbar/ai_domain.svg" width="220px" alt="Web Domains navigation" />
   </a>
 </p>
 
@@ -36,11 +36,11 @@
 </p>
 
 <p align="center">
-  I am especially interested in AI infrastructure, MLOps, research automation, reinforcement learning, robotics, interactive technical education, and tools that make complex systems easier to understand.
+  I am especially interested in AI infrastructure, Web Performance, research automation, React & UI/UX, robotics, interactive technical education, and tools that make complex systems easier to understand.
 </p>
 
 <p align="center">
-  <img src="../docs/img/collaboration_content.svg" alt="Collaboration matrix for AI systems, research tooling, and MLOps work" />
+  <img src="../docs/img/collaboration_content.svg" alt="Collaboration matrix for Web applications, research tooling, and Web Performance work" />
 </p>
 
 ---
@@ -59,15 +59,15 @@ I like collaborations where the idea can survive contact with implementation. Th
 
 ## High-Value Collaboration Zones
 
-### ML Infrastructure & MLOps
+### Frontend architecture & Web Performance
 
 Model serving, training workflows, evaluation pipelines, experiment tracking, observability, deployment automation, and platform design. I care about the machinery that makes ML usable beyond notebooks.
 
 ### Research Tooling
 
-Systems that make research workflows less fragile: PaperOps, reproducibility, benchmark automation, literature pipelines, experiment metadata, and clean handoff from idea to implementation.
+Systems that make research workflows less fragile: Team-Deco, reproducibility, benchmark automation, literature pipelines, experiment metadata, and clean handoff from idea to implementation.
 
-### Reinforcement Learning & Agents
+### React & UI/UX & Agents
 
 Multi-agent coordination, simulation environments, decision systems, evaluation loops, and agent behavior. I am more interested in measurable behavior than abstract agent hype.
 
@@ -77,7 +77,7 @@ Perception, planning, control loops, embodied AI, and systems that need to opera
 
 ### Interactive Technical Labs
 
-Tools like Neural Lab, Molecule Lab, and Model Forge: visual systems that make complex ideas easier to explore directly. The goal is not decoration; the goal is intuition through interaction.
+Tools like React Lab, Next.js Lab, and Component Forge: visual systems that make complex ideas easier to explore directly. The goal is not decoration; the goal is intuition through interaction.
 
 ### Technical Communication & Developer Experience
 
@@ -100,7 +100,7 @@ What exists now:
 <repo, demo, paper, sketch, notes, or current status>
 
 Where I think you might fit:
-<architecture, ML infra, MLOps, RL, documentation, visual systems, review, etc.>
+<architecture, ML infra, Web Performance, RL, documentation, visual systems, review, etc.>
 
 First useful milestone:
 <something small enough to actually start>
@@ -122,12 +122,12 @@ If the first milestone is clear, the conversation can become technical quickly. 
 
 ## Contact Vector
 
-If the work connects to AI systems, ML infrastructure, research tooling, RL, robotics, or interactive learning labs, send the idea through one of the channels listed in the main [README](../README.md#-contact).
+If the work connects to Web applications, Frontend architecture, research tooling, RL, robotics, or interactive learning labs, send the idea through one of the channels listed in the main [README](../README.md#-contact).
 
 Useful links:
 
 - [Projects](./PROJECTS.md)
-- [AI Domains](./AI_DOMAIN.md)
+- [Web Domains](./AI_DOMAIN.md)
 - [Main Website](https://deepss96.github.io/)
 - [GitHub Profile](../README.md)
 

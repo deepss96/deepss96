@@ -147,7 +147,7 @@
 
   <!-- panel 1 -->
   <text x="95" y="210" class="section">BUILD SYSTEMS</text>
-  <text x="95" y="233" class="sectionSub">Platforms • MLOps • Infrastructure</text>
+  <text x="95" y="233" class="sectionSub">Platforms • Web Performance • Infrastructure</text>
 
   <circle cx="102" cy="267" r="3.5" class="bullet"/>
   <text x="118" y="272" class="item">Scalable ML platforms</text>
@@ -169,7 +169,7 @@
   <text x="488" y="272" class="item">Generative AI &amp; foundation models</text>
 
   <circle cx="472" cy="297" r="3.5" class="bullet"/>
-  <text x="488" y="302" class="item">Reinforcement learning systems</text>
+  <text x="488" y="302" class="item">React & UI/UX systems</text>
 
   <circle cx="472" cy="327" r="3.5" class="bullet"/>
   <text x="488" y="332" class="item">Robotics &amp; autonomous agents</text>

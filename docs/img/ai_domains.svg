@@ -140,12 +140,12 @@
   <text x="410" y="250" class="label">GenAI</text>
   <text x="420" y="500" class="label">Multi-Agent</text>
   <text x="250" y="620" text-anchor="middle" class="label">RL</text>
-  <text x="40" y="500" class="label">MLOps</text>
+  <text x="40" y="500" class="label">Web Performance</text>
   <text x="40" y="250" class="label">Robotics</text>
 
   <!-- title -->
   <text x="250" y="45" text-anchor="middle" class="title">
-    AI DOMAINS
+    Web Domains
   </text>
 
 </svg>

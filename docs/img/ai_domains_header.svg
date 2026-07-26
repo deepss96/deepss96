@@ -99,7 +99,7 @@
         font-weight="800"
         letter-spacing="5"
         fill="url(#textGrad)">
-    AI DOMAINS
+    Web Domains
 
     <animate attributeName="opacity"
       values="0.85;1;0.85"

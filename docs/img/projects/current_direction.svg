@@ -69,7 +69,7 @@
       <text x="24" y="38" class="meta">01 / DEMOS</text>
       <text x="24" y="74" class="cardTitle">PUBLIC LABS</text>
       <text x="24" y="105" class="cardText">Build stronger public demos</text>
-      <text x="24" y="128" class="cardText">around interactive AI systems.</text>
+      <text x="24" y="128" class="cardText">around interactive Web applications.</text>
     </g>
     <g transform="translate(395 235)">
       <rect width="285" height="150" rx="20" fill="rgba(2, 6, 23, 0.8)" stroke="url(#cardEdge)" stroke-width="2"/>

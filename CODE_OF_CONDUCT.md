@@ -4,7 +4,7 @@
 
 This repository is my main GitHub profile repository. It represents my public technical presence, projects, writing, and collaboration interests.
 
-The goal is to keep discussions professional, constructive, and useful for people interested in machine learning engineering, MLOps, distributed systems, research infrastructure, and related technical work.
+The goal is to keep discussions professional, constructive, and useful for people interested in Frontend Development engineering, Web Performance, distributed systems, research infrastructure, and related technical work.
 
 ## Expected Behavior
 

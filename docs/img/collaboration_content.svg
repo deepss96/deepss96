@@ -144,8 +144,8 @@
   </g>
 
   <text x="800" y="92" text-anchor="middle" class="eyebrow">COLLABORATION MATRIX</text>
-  <text x="800" y="158" text-anchor="middle" class="headline">BUILDING REAL AI SYSTEMS</text>
-  <text x="800" y="195" text-anchor="middle" class="subhead">MLOps platforms • research tooling • RL systems • robotics infrastructure</text>
+  <text x="800" y="158" text-anchor="middle" class="headline">BUILDING REAL Web applications</text>
+  <text x="800" y="195" text-anchor="middle" class="subhead">Web Performance platforms • research tooling • RL systems • robotics infrastructure</text>
 
   <path class="minorRoute" d="M350 330C495 255 620 255 724 382"/>
   <path class="minorRoute" d="M1250 330C1105 255 980 255 876 382"/>
@@ -186,13 +186,13 @@
       <animate attributeName="stroke-dashoffset" from="0" to="-320" dur="5s" repeatCount="indefinite"/>
     </rect>
     <text x="32" y="45" class="panelMeta">DOMAIN 01</text>
-    <text x="32" y="86" class="panelTitle">ML INFRASTRUCTURE</text>
+    <text x="32" y="86" class="panelTitle">Frontend architecture</text>
     <circle cx="38" cy="125" r="5" fill="#22d3ee"/>
     <text x="58" y="131" class="item">Model serving and deployment</text>
     <circle cx="38" cy="160" r="5" fill="#8b5cf6"/>
     <text x="58" y="166" class="item">Experimentation platforms</text>
     <circle cx="38" cy="195" r="5" fill="#f472b6"/>
-    <text x="58" y="201" class="item">Production MLOps pipelines</text>
+    <text x="58" y="201" class="item">Production Web Performance pipelines</text>
   </g>
 
   <g transform="translate(1065 250)">
@@ -203,7 +203,7 @@
     <text x="32" y="45" class="panelMeta">DOMAIN 02</text>
     <text x="32" y="86" class="panelTitle">RESEARCH SYSTEMS</text>
     <circle cx="38" cy="125" r="5" fill="#22d3ee"/>
-    <text x="58" y="131" class="item">PaperOps and reproducibility</text>
+    <text x="58" y="131" class="item">Team-Deco and reproducibility</text>
     <circle cx="38" cy="160" r="5" fill="#8b5cf6"/>
     <text x="58" y="166" class="item">RL and multi-agent labs</text>
     <circle cx="38" cy="195" r="5" fill="#f472b6"/>
@@ -245,7 +245,7 @@
       <animate attributeName="stroke-dashoffset" from="0" to="-236" dur="4.2s" repeatCount="indefinite"/>
     </rect>
     <text x="34" y="33" class="terminal">&gt; handshake --mode focused --standard production</text>
-    <text x="34" y="59" class="small">Open to aligned work in AI platforms, MLOps, RL, robotics, and research infrastructure.</text>
+    <text x="34" y="59" class="small">Open to aligned work in AI platforms, Web Performance, RL, robotics, and research infrastructure.</text>
   </g>
 
   <g opacity="0.62" filter="url(#glow)">

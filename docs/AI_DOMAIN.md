@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../docs/img/ai_domains_header.svg" width="100%" alt="AI domains system header" />
+  <img src="../docs/img/ai_domains_header.svg" width="100%" alt="Web Domains system header" />
 </p>
 
 
@@ -12,7 +12,7 @@
     <img src="../docs/img/navbar/projects.svg" width="220px" alt="Projects navigation" />
   </a>
   <a href="./AI_DOMAIN.md">
-    <img src="../docs/img/navbar/ai_domain.svg" width="220px" alt="AI domains navigation" />
+    <img src="../docs/img/navbar/ai_domain.svg" width="220px" alt="Web Domains navigation" />
   </a>
 </p>
 
@@ -36,12 +36,12 @@
 </p>
 
 <p align="center">
-  This page maps the technical domains behind my projects and labs: machine learning infrastructure, reinforcement learning, robotics, distributed systems, model operations, and interactive education.
+  This page maps the technical domains behind my projects and labs: Frontend Development infrastructure, React & UI/UX, robotics, distributed systems, model operations, and interactive education.
 </p>
 
 <p align="center">
     <a href="https://deepss96.github.io/neural-lab">
-        <img src="../docs/img/mlp_space.svg" alt="Neural lab and AI domain visualization" />
+        <img src="../docs/img/mlp_space.svg" alt="React Lab and Web Domain visualization" />
     </a>
 </p>
 
@@ -55,12 +55,12 @@
 
 | Lab | Purpose |
 | --- | --- |
-| [Neural Lab](https://deepss96.github.io/neural-lab) | Interactive neural visualization and model intuition. |
-| [Molecule Lab](https://deepss96.github.io/molecule-lab/index.html) | Hands-on molecule building from atoms, bonds, and structures. |
-| [Model Forge](https://deepss96.github.io/model-forge/index.html) | A guided environment for learning machine learning foundations. |
+| [React Lab](https://deepss96.github.io/neural-lab) | Interactive neural visualization and model intuition. |
+| [Next.js Lab](https://deepss96.github.io/molecule-lab/index.html) | Hands-on molecule building from atoms, bonds, and structures. |
+| [Component Forge](https://deepss96.github.io/model-forge/index.html) | A guided environment for learning Frontend Development foundations. |
 
 ## Engineering Principles
 
 <p align="center">
-  <img src="../docs/img/engineering_principles_blueprint.svg" alt="Engineering principles blueprint for AI systems" />
+  <img src="../docs/img/engineering_principles_blueprint.svg" alt="Engineering principles blueprint for Web applications" />
 </p>

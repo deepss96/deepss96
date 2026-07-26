@@ -81,5 +81,5 @@
   </circle>
 
   <!-- label -->
-  <text x="185" y="55" text-anchor="middle" class="t">AI DOMAINS</text>
+  <text x="185" y="55" text-anchor="middle" class="t">Web Domains</text>
 </svg>

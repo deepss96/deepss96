@@ -100,7 +100,7 @@
 
   <text x="750" y="72" text-anchor="middle" class="kicker">ENGINEERING DOCTRINE</text>
   <text x="750" y="126" text-anchor="middle" class="title">PRINCIPLES THAT SURVIVE IMPLEMENTATION</text>
-  <text x="750" y="160" text-anchor="middle" class="subtitle">A blueprint for AI systems that can be inspected, repeated, tested, and maintained.</text>
+  <text x="750" y="160" text-anchor="middle" class="subtitle">A blueprint for Web applications that can be inspected, repeated, tested, and maintained.</text>
 
   <g filter="url(#glow)">
     <path d="M900 235V650" stroke="url(#trace)" stroke-width="4" stroke-linecap="round" stroke-dasharray="26 18">
